@@ -13,6 +13,10 @@
 2. **`.claude/skills/article-registry/`** で重複チェック → 投稿後に台帳登録。
 3. 記事ファイルと `data/articles.json` を**同一コミット**で push。
 
+## SEO / LLMO
+- 最適化の方針・維持手順は **`.claude/skills/seo-llmo/`** に集約。記事を書くたび「結論先出し・数値＋出典・明確な見出し・強い `summary`」を満たす。
+- 実装は `src/seo.ts`（SITE設定・JSON-LD・robots/sitemap/feed/llms 生成）と `src/components/Layout.tsx`。新ルートを足したら sitemap / llms.txt に反映し、`bun run typecheck && bun run build` を通す。
+
 ## frontmatter フォーマット（厳守）
 パーサ対応は `key: value` と `key: [a, b, c]` のみ（src/articles.ts）。
 ```
