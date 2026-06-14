@@ -12,6 +12,8 @@
 1. **`.claude/skills/news-collection/`** の手順・編集方針に従う（中立性・出典・帰属表現・記事構成のルール）。
 2. **`.claude/skills/article-registry/`** で重複チェック → 投稿後に台帳登録。
 3. 記事ファイルと `data/articles.json` を**同一コミット**で push。
+4. **公開後に Slack 通知**: Slack コネクタで各記事の**タイトル＋URL**（`https://news.basaapp.com/articles/<slug>`）を `#claude-code` に送る（news-collection スキル参照）。
+5. **じっくり時間をかける**: 急がず、多角的に検索し（複数クエリ・複数ソース）、拡張思考で裏取り・中立判断を詰める。**推奨モデル: Opus 4.8**。
 
 ## SEO / LLMO
 - 最適化の方針・維持手順は **`.claude/skills/seo-llmo/`** に集約。記事を書くたび「結論先出し・数値＋出典・明確な見出し・強い `summary`」を満たす。
