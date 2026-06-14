@@ -1,54 +1,57 @@
 [
   {
     "slug": "sample-welcome",
-    "title": "当サイトについて — 政治ニュースを事実ベースで毎日お届け",
+    "title": "当サイトについて — 外交・世界情勢を事実ベースで毎日お届け",
     "sourceUrl": "https://news.basaapp.com/",
     "topics": [
       "お知らせ",
       "サイト方針"
     ],
-    "summary": "出典を明記し、事実と意見を分けて政治の動きを整理して伝えるニュースサイトです。",
+    "summary": "外交・安全保障・世界情勢を、出典を明記し事実と意見を分けて整理して伝えるニュースサイトです。",
     "publishedAt": "2026-06-14"
   },
   {
-    "slug": "shuin-teisu-sakugen-jiminryosho",
-    "title": "衆院議員定数削減法案を自民が了承 比例45減案、野党は反発",
-    "sourceUrl": "https://www.jiji.com/jc/article?k=2026061100346&g=flash",
+    "slug": "unsc-middle-east-debate-ceasefire",
+    "title": "国連安保理が中東問題で公開討論 米イラン停戦の維持と政治解決が焦点",
+    "sourceUrl": "https://news.un.org/en/story/2026/06/1167689",
     "topics": [
-      "国会",
-      "議員定数削減",
-      "自民党",
-      "維新",
-      "選挙制度"
+      "中東",
+      "国連安保理",
+      "イラン",
+      "米国",
+      "停戦",
+      "ガザ"
     ],
-    "summary": "自民党の部会が6月11日、衆院比例代表を45削減する議員定数削減法案を了承。維新と共同提出し今国会成立を目指すが、野党は反発し終盤国会の対立点に。",
+    "summary": "国連安保理は6月10日、中東における政治的解決の前進と題する公開討論を開いた。グテーレス事務総長は対話を唯一の希望と訴え、米国・イラン・EUなどが立場の違いを示した。",
     "publishedAt": "2026-06-14"
   },
   {
-    "slug": "kono-yohei-moto-gicho-shikyo",
-    "title": "河野洋平元衆院議長が死去 89歳 自民総裁・官房長官など歴任",
-    "sourceUrl": "https://www.jiji.com/jc/article?k=2026061000999&g=pol",
+    "slug": "ukraine-russia-front-strikes",
+    "title": "ウクライナとロシアが攻撃を応酬 NATO事務総長がキーウ訪問",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/6/3/ukraine-drone-attack-kills-7-in-russian-held-territory-in-new-escalation",
     "topics": [
-      "訃報",
-      "河野洋平",
-      "自民党",
-      "衆院議長"
+      "ウクライナ",
+      "ロシア",
+      "nato",
+      "戦況",
+      "ドローン"
     ],
-    "summary": "自民党総裁や官房長官、衆院議長などを歴任した河野洋平氏が6月8日に89歳で死去したと報じられた。河野談話の発表などで知られる。",
+    "summary": "6月初旬、ウクライナとロシアが互いの支配地域・領内への攻撃を応酬した。同じ時期にNATOのルッテ事務総長がキーウを訪問し、対ウクライナ支援を改めて表明した。",
     "publishedAt": "2026-06-14"
   },
   {
-    "slug": "kozoku-kakuho-yoto-kyogi",
-    "title": "皇族数確保めぐり高市首相が与党での詳細協議を要請 野党は反発",
-    "sourceUrl": "https://news.infoseek.co.jp/article/jiji_2026061300391/",
+    "slug": "g7-evian-summit-japan",
+    "title": "G7エビアン・サミット15日開幕へ 中東・ウクライナが主要議題、日本も出席",
+    "sourceUrl": "https://www.kantei.go.jp/jp/105/statement/2026/0613kaiken.html",
     "topics": [
-      "皇室典範",
-      "皇族確保",
-      "高市首相",
-      "与野党",
-      "皇位継承"
+      "g7",
+      "サミット",
+      "日本",
+      "外交",
+      "フランス",
+      "エネルギー安全保障"
     ],
-    "summary": "皇族数確保策をめぐり高市首相が自民・維新の与党で制度設計を詰めるよう要請。衆参議長は10日に立法府の総意を取りまとめており、与党先行の進め方に野党が反発。",
+    "summary": "フランス・エビアンで6月15〜17日にG7サミットが開かれる。中東とウクライナが主要議題とされ、日本の高市首相も英国・イタリア訪問を経て出席する。",
     "publishedAt": "2026-06-14"
   }
 ]

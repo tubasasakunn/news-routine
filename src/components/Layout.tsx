@@ -1,7 +1,7 @@
 import type { FC, PropsWithChildren } from "hono/jsx";
 
-const SITE_NAME = "basa 政治ニュース";
-const SITE_DESC = "政治の動きを、事実ベースで・出典付きで毎日お届け。";
+const SITE_NAME = "basa 世界情勢ニュース";
+const SITE_DESC = "外交・安全保障・世界情勢を、事実ベースで・出典付きで毎日お届け。";
 
 type LayoutProps = PropsWithChildren<{
   title?: string;

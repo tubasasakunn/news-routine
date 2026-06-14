@@ -1,6 +1,6 @@
 # news-routine
 
-日本の政治ニュースを**事実ベース・出典付き**で毎日お届けするサイト（`news.basaapp.com`）。
+外交・安全保障・紛争／戦争・世界情勢（国際政治）を**事実ベース・出典付き**で毎日お届けするサイト（`news.basaapp.com`）。日本の外交・安保も対象。
 Claude Code routine が定期実行で記事を調査・追加する。
 
 ## 技術スタック
@@ -27,7 +27,7 @@ content/articles/   記事（Markdown）。routine が追加する本体
 data/articles.json  投稿済み記事の台帳（重複防止用）
 src/                Hono アプリ（ルーティング・レンダリング）
 .claude/skills/
-  news-collection/    政治ニュース収集の手順・編集方針（routine が読む）
+  news-collection/    外交・世界情勢ニュース収集の手順・編集方針（routine が読む）
   article-registry/   重複防止スキル（全プロジェクト共通）
 ```
 
