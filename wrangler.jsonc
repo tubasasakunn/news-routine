@@ -1,0 +1,17 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "news-routine",
+  "main": "dist/index.js",
+  "compatibility_date": "2025-06-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "observability": {
+    "enabled": true
+  },
+  // 本番ドメイン。Cloudflare 側でゾーン basaapp.com にルートを設定する。
+  "routes": [
+    {
+      "pattern": "news.basaapp.com",
+      "custom_domain": true
+    }
+  ]
+}

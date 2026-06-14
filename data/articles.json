@@ -1,0 +1,54 @@
+[
+  {
+    "slug": "sample-welcome",
+    "title": "当サイトについて — 政治ニュースを事実ベースで毎日お届け",
+    "sourceUrl": "https://news.basaapp.com/",
+    "topics": [
+      "お知らせ",
+      "サイト方針"
+    ],
+    "summary": "出典を明記し、事実と意見を分けて政治の動きを整理して伝えるニュースサイトです。",
+    "publishedAt": "2026-06-14"
+  },
+  {
+    "slug": "shuin-teisu-sakugen-jiminryosho",
+    "title": "衆院議員定数削減法案を自民が了承 比例45減案、野党は反発",
+    "sourceUrl": "https://www.jiji.com/jc/article?k=2026061100346&g=flash",
+    "topics": [
+      "国会",
+      "議員定数削減",
+      "自民党",
+      "維新",
+      "選挙制度"
+    ],
+    "summary": "自民党の部会が6月11日、衆院比例代表を45削減する議員定数削減法案を了承。維新と共同提出し今国会成立を目指すが、野党は反発し終盤国会の対立点に。",
+    "publishedAt": "2026-06-14"
+  },
+  {
+    "slug": "kono-yohei-moto-gicho-shikyo",
+    "title": "河野洋平元衆院議長が死去 89歳 自民総裁・官房長官など歴任",
+    "sourceUrl": "https://www.jiji.com/jc/article?k=2026061000999&g=pol",
+    "topics": [
+      "訃報",
+      "河野洋平",
+      "自民党",
+      "衆院議長"
+    ],
+    "summary": "自民党総裁や官房長官、衆院議長などを歴任した河野洋平氏が6月8日に89歳で死去したと報じられた。河野談話の発表などで知られる。",
+    "publishedAt": "2026-06-14"
+  },
+  {
+    "slug": "kozoku-kakuho-yoto-kyogi",
+    "title": "皇族数確保めぐり高市首相が与党での詳細協議を要請 野党は反発",
+    "sourceUrl": "https://news.infoseek.co.jp/article/jiji_2026061300391/",
+    "topics": [
+      "皇室典範",
+      "皇族確保",
+      "高市首相",
+      "与野党",
+      "皇位継承"
+    ],
+    "summary": "皇族数確保策をめぐり高市首相が自民・維新の与党で制度設計を詰めるよう要請。衆参議長は10日に立法府の総意を取りまとめており、与党先行の進め方に野党が反発。",
+    "publishedAt": "2026-06-14"
+  }
+]
