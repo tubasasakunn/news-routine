@@ -53,5 +53,51 @@
     ],
     "summary": "フランス・エビアンで6月15〜17日にG7サミットが開かれる。中東とウクライナが主要議題とされ、日本の高市首相も英国・イタリア訪問を経て出席する。",
     "publishedAt": "2026-06-14"
+  },
+  {
+    "slug": "us-iran-peace-deal-hormuz",
+    "title": "米・イランが和平合意　ホルムズ海峡の再開通へ、6月19日スイスで署名式",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening",
+    "topics": [
+      "米国",
+      "イラン",
+      "ホルムズ海峡",
+      "停戦",
+      "中東",
+      "外交"
+    ],
+    "summary": "米国とイランは6月14日、すべての敵対行為を終結させホルムズ海峡を再開通させる和平合意を発表した。正式な署名式は6月19日にスイスで行われる予定で、核問題や制裁解除を含む60日間の後続交渉が始まる。",
+    "publishedAt": "2026-06-15"
+  },
+  {
+    "slug": "israel-hezbollah-beirut-airstrike",
+    "title": "ヒズボラがドローンでイスラエル北部を攻撃、イスラエルはベイルート南郊を空爆",
+    "sourceUrl": "https://www.jpost.com/israel-news/defense-news/article-899341",
+    "topics": [
+      "イスラエル",
+      "ヒズボラ",
+      "レバノン",
+      "中東",
+      "ドローン",
+      "ベイルート"
+    ],
+    "summary": "6月14日、ヒズボラはイスラエル北部にドローン3機を発射し、イスラエル軍はレバノン・ベイルート南郊のヒズボラ指揮施設を空爆した。米・イラン和平合意の発表と前後して起きた応酬はイランの強い反発を招き、地域の緊張が高まっている。",
+    "publishedAt": "2026-06-15"
+  },
+  {
+    "slug": "g7-evian-day1-iran-ukraine",
+    "title": "G7エビアン・サミット初日　米・イラン合意後の中東情勢とウクライナ支援が主要議題に",
+    "sourceUrl": "https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal",
+    "topics": [
+      "g7",
+      "サミット",
+      "ウクライナ",
+      "イラン",
+      "フランス",
+      "外交",
+      "ロシア"
+    ],
+    "summary": "6月15日、G7首脳会議がフランス・エビアン＝レ＝バンで開幕した。米・イラン和平合意の発表直後という異例の状況のもと、ホルムズ海峡の再開通とウクライナへの支援継続が主要議題となっている。",
+    "publishedAt": "2026-06-15"
   }
 ]
