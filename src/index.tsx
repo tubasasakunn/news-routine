@@ -14,6 +14,7 @@ import {
   llmsTxt,
 } from "./seo";
 import styleCss from "./style.css?raw";
+import faviconSvg from "./favicon.svg?raw";
 
 const app = new Hono();
 

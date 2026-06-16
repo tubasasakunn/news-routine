@@ -65,6 +65,7 @@ export const Layout: FC<LayoutProps> = ({
           rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Noto+Serif+JP:wght@500;600;700&display=swap"
         />
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
         <link rel="stylesheet" href="/style.css" />
         {blocks.map((b) => (
           <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdString(b) }} />
