@@ -53,5 +53,51 @@
     ],
     "summary": "フランス・エビアンで6月15〜17日にG7サミットが開かれる。中東とウクライナが主要議題とされ、日本の高市首相も英国・イタリア訪問を経て出席する。",
     "publishedAt": "2026-06-14"
+  },
+  {
+    "slug": "g7-evian-communique-2026",
+    "title": "G7エビアン・サミット閉幕 ウクライナ支援強化と米・イラン合意歓迎を盛り込んだ共同声明を採択",
+    "sourceUrl": "https://www.elysee.fr/en/G7evian/2026/06/17/g7-leaders-statement-on-geopolitical-issues",
+    "topics": [
+      "g7",
+      "サミット",
+      "ウクライナ",
+      "イラン",
+      "印太平洋",
+      "外交"
+    ],
+    "summary": "G7首脳会議が6月17日にフランス・エビアンで閉幕し、ウクライナへの防空システム追加供与とロシアへの制裁強化、米・イラン合意の歓迎、東シナ海・南シナ海での一方的現状変更への反対を盛り込んだ地政学声明を採択した。",
+    "publishedAt": "2026-06-17"
+  },
+  {
+    "slug": "us-iran-mou-hormuz-2026",
+    "title": "米・イラン間で停戦と核交渉の枠組み覚書（MOU）に合意 ホルムズ海峡再開が先行",
+    "sourceUrl": "https://fortune.com/2026/06/14/iran-ceasefire-terms-mou-versions-us-deal-sanctions-hormuz-blockade-nuclear-program-frozen-assets/",
+    "topics": [
+      "イラン",
+      "米国",
+      "核交渉",
+      "ホルムズ海峡",
+      "制裁",
+      "中東"
+    ],
+    "summary": "米国とイランは6月14日、3カ月半に及ぶ軍事的対立を事実上停止する覚書（MOU）に合意した。ホルムズ海峡の再開と60日間の核交渉枠組みを柱とするが、核濃縮の規模・制裁解除の条件・代理勢力問題など主要事項は依然として交渉中だ。",
+    "publishedAt": "2026-06-17"
+  },
+  {
+    "slug": "japan-us-edd-june-2026",
+    "title": "日米拡大抑止対話 核を含む全方位の防衛コミットメント確認と中国の核増強への懸念を明記",
+    "sourceUrl": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/joint-statement-on-the-june-2026-u-s-japan-extended-deterrence-dialogue/",
+    "topics": [
+      "日本",
+      "米国",
+      "核抑止",
+      "安全保障",
+      "北朝鮮",
+      "中国",
+      "拡大抑止"
+    ],
+    "summary": "日米両国は6月8〜9日に東京で拡大抑止対話（EDD）を実施し、核を含む全防衛能力を用いた日本防衛への米国のコミットメントを確認した。中国の「急激かつ不透明な核増強」への懸念と北朝鮮の完全非核化への支持を共同声明に明記した。",
+    "publishedAt": "2026-06-17"
   }
 ]
