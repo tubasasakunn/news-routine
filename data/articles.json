@@ -53,5 +53,50 @@
     ],
     "summary": "フランス・エビアンで6月15〜17日にG7サミットが開かれる。中東とウクライナが主要議題とされ、日本の高市首相も英国・イタリア訪問を経て出席する。",
     "publishedAt": "2026-06-14"
+  },
+  {
+    "slug": "us-iran-mou-ceasefire-hormuz",
+    "title": "米国とイランが停戦延長とホルムズ海峡段階的再開を定めた覚書に署名",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/6/17/iran-confirms-that-mou-has-been-signed-electronically-by-both-sides",
+    "topics": [
+      "米国",
+      "イラン",
+      "中東",
+      "ホルムズ海峡",
+      "停戦",
+      "核交渉"
+    ],
+    "summary": "米国とイランの両大統領は6月17日、停戦を60日間延長しホルムズ海峡を段階的に再開することなどを定めた覚書に電子署名した。60日間の核交渉期間が開始されたが、イスラエル・ヒズボラ間の戦闘継続や核問題の複雑さなど課題は残る。",
+    "publishedAt": "2026-06-20"
+  },
+  {
+    "slug": "g7-evian-outcomes-ukraine",
+    "title": "G7エビアン・サミット閉幕、ウクライナ支援強化など9つの宣言を採択",
+    "sourceUrl": "https://www.elysee.fr/en/G7evian/2026/06/17/the-outcomes-of-the-evian-g7-summit",
+    "topics": [
+      "g7",
+      "サミット",
+      "ウクライナ",
+      "フランス",
+      "外交",
+      "国際安全保障"
+    ],
+    "summary": "フランス・エビアンで開かれた第52回G7首脳会議は6月17日に閉幕し、ウクライナへの防空能力強化などの軍事支援増強を含む9つの宣言を採択した。ゼレンスキー大統領も出席し支援の確約を得た。包括的な首脳宣言は2年連続で見送られた。",
+    "publishedAt": "2026-06-20"
+  },
+  {
+    "slug": "sudan-drone-war-civilian-deaths",
+    "title": "スーダン内戦でドローン攻撃による民間人死者が2026年初め5ヶ月で1000人超、国連が報告",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/6/15/drone-warfare-kills-over-1000-in-sudan-in-2026-as-strikes-multiply-un",
+    "topics": [
+      "スーダン",
+      "紛争",
+      "ドローン",
+      "民間人",
+      "国連",
+      "人道危機"
+    ],
+    "summary": "国連人権高等弁務官は6月、スーダンの内戦において2026年1〜5月のドローン攻撃で民間人が1000人超死亡したと報告した。武装ドローンが民間人死因の約8割を占めるとされ、市場・病院・学校などへの攻撃も記録されている。",
+    "publishedAt": "2026-06-20"
   }
 ]
