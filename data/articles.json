@@ -53,5 +53,51 @@
     ],
     "summary": "フランス・エビアンで6月15〜17日にG7サミットが開かれる。中東とウクライナが主要議題とされ、日本の高市首相も英国・イタリア訪問を経て出席する。",
     "publishedAt": "2026-06-14"
+  },
+  {
+    "slug": "us-iran-mou-ceasefire-june-2026",
+    "title": "米イラン、60日停戦延長の覚書に署名 ─ 核・制裁・ホルムズ海峡が今後の焦点",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/6/18/what-the-trump-iran-14-point-plan-says-about-lebanon-hormuz-and-uranium",
+    "topics": [
+      "イラン",
+      "米国",
+      "停戦",
+      "核",
+      "ホルムズ海峡",
+      "中東"
+    ],
+    "summary": "米国のトランプ大統領とイランのペゼシュキアン大統領は2026年6月17〜18日、60日間の停戦延長とホルムズ海峡再開を柱とする14項目の覚書（MoU）に署名した。核問題や地域代理勢力は継続交渉に委ねられ、イスラエルは合意当事者に含まれていない。",
+    "publishedAt": "2026-06-21"
+  },
+  {
+    "slug": "eu-summit-ukraine-june-2026",
+    "title": "EUサミット、ウクライナ支持の結論文書を全会一致採択 ─ ロシア制裁を1年延長",
+    "sourceUrl": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/06/ukraine-260618-ec02.htm",
+    "topics": [
+      "eu",
+      "ウクライナ",
+      "ロシア",
+      "制裁",
+      "欧州安全保障",
+      "停戦交渉"
+    ],
+    "summary": "欧州連合（EU）は2026年6月18〜19日のブリュッセル・サミットで、ウクライナへの支持と欧州防衛強化を柱とする結論文書を27か国全会一致で採択した。ロシアへの経済制裁を1年に延長し、EU独自の対ロ外交チャンネル設置も確認した。",
+    "publishedAt": "2026-06-21"
+  },
+  {
+    "slug": "pentagon-china-military-list-alibaba-byd-2026",
+    "title": "米国防総省、アリババ・BYD・百度を中国軍関連企業リストに追加 188社に拡大",
+    "sourceUrl": "https://www.scmp.com/news/china/diplomacy/article/3356419/us-adds-alibaba-byd-and-other-chinese-tech-champions-military-company-list",
+    "topics": [
+      "米中関係",
+      "中国",
+      "米国",
+      "防衛",
+      "アリババ",
+      "byd",
+      "百度"
+    ],
+    "summary": "米国防総省は2026年6月8〜9日、中国の軍民融合戦略を支援するとして認定する「1260Hリスト」にアリババ・百度・BYDなど54社を追加し、計188社に拡大した。6月30日以降、国防総省はリスト掲載企業との直接契約が禁止される。",
+    "publishedAt": "2026-06-21"
   }
 ]
