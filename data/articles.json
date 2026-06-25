@@ -53,5 +53,52 @@
     ],
     "summary": "フランス・エビアンで6月15〜17日にG7サミットが開かれる。中東とウクライナが主要議題とされ、日本の高市首相も英国・イタリア訪問を経て出席する。",
     "publishedAt": "2026-06-14"
+  },
+  {
+    "slug": "north-korea-nuclear-enrichment-expansion",
+    "title": "北朝鮮が3か所目のウラン濃縮施設を公開——金正恩氏、核兵器の「指数的」増強を宣言",
+    "sourceUrl": "https://www.pbs.org/newshour/amp/world/north-korea-unveils-new-facility-to-produce-fuel-for-nuclear-weapons",
+    "topics": [
+      "北朝鮮",
+      "核兵器",
+      "核拡散",
+      "金正恩",
+      "朝鮮半島",
+      "非核化"
+    ],
+    "summary": "北朝鮮は2026年6月3日、金正恩総書記が新たなウラン濃縮施設を視察したと発表した。北朝鮮が核燃料生産拠点を公開するのは3か所目で、同氏は核兵器の生産能力を「指数的」に拡大する方針を表明した。",
+    "publishedAt": "2026-06-25"
+  },
+  {
+    "slug": "us-japan-extended-deterrence-dialogue-june-2026",
+    "title": "日米が拡大抑止協議を東京で実施——核を含む全能力での防衛関与を確認",
+    "sourceUrl": "https://www.globalsecurity.org/wmd/library/news/japan/2026/japan-260609-state01.htm",
+    "topics": [
+      "日本",
+      "米国",
+      "拡大抑止",
+      "核抑止",
+      "日米同盟",
+      "北朝鮮",
+      "中国"
+    ],
+    "summary": "2026年6月8〜9日、日米両政府は東京の外務省で「拡大抑止協議」を実施した。米国は「核を含むあらゆる能力」を用いた日本防衛への関与を改めて確認し、北朝鮮の非核化や中国の核戦力拡充への共同対応を協議した。",
+    "publishedAt": "2026-06-25"
+  },
+  {
+    "slug": "gaza-ceasefire-humanitarian-crisis-june-2026",
+    "title": "ガザ停戦から8か月——安保理で人道状況悪化が報告、支援物資の搬入停滞続く",
+    "sourceUrl": "https://press.un.org/en/2026/sc16390.doc.htm",
+    "topics": [
+      "ガザ",
+      "停戦",
+      "人道支援",
+      "イスラエル",
+      "パレスチナ",
+      "国連",
+      "国連安保理"
+    ],
+    "summary": "2026年6月18日の国連安保理で、停戦後に少なくとも856人のパレスチナ人が死亡したとされ、週当たりの支援物資搬入量は最大時の87%減にまで落ち込んだと報告された。停戦後8か月を経ても人道状況の深刻な悪化が続いている。",
+    "publishedAt": "2026-06-25"
   }
 ]
