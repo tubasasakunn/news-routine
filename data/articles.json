@@ -53,5 +53,50 @@
     ],
     "summary": "フランス・エビアンで6月15〜17日にG7サミットが開かれる。中東とウクライナが主要議題とされ、日本の高市首相も英国・イタリア訪問を経て出席する。",
     "publishedAt": "2026-06-14"
+  },
+  {
+    "slug": "iran-gcc-us-statement-june2026",
+    "title": "イランが米・GCC閣僚共同声明を「内政干渉」と非難 停戦後8日での外交摩擦",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/6/26/iran-slams-the-gcc-and-the-us-for-interventionist-statement-what-we-know",
+    "topics": [
+      "イラン",
+      "米国",
+      "gcc",
+      "湾岸諸国",
+      "核問題",
+      "外交"
+    ],
+    "summary": "米国とGCC6か国が6月25日のバーレーン閣僚会合後にイランの核・ミサイル・域内影響力を問題視する共同声明を発表。イラン外務省は翌26日、「内政干渉で無責任かつ挑発的」と強く非難し、6月17日に署名された米・イラン停戦覚書後も外交的緊張が続いていることが浮き彫りになった。",
+    "publishedAt": "2026-06-26"
+  },
+  {
+    "slug": "e5-nato-ankara-summit-ukraine-support",
+    "title": "欧州主要5か国がベルリンでウクライナ支持を確認 NATOアンカラ・サミット（7月7〜8日）に向け結束",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/6/24/top-european-leaders-vow-strong-support-for-ukraine-ahead-of-nato-summit",
+    "topics": [
+      "nato",
+      "ウクライナ",
+      "欧州",
+      "ドイツ",
+      "サミット",
+      "ロシア"
+    ],
+    "summary": "英・仏・伊・波・独の欧州主要5か国（E5）首脳が6月24日にベルリンで会合し、制裁強化やエネルギー支援を含む対ウクライナ支援の大幅な継続を約束した。7月7〜8日にトルコ・アンカラで開催されるNATOサミットを前に、西側の結束を対外的に示した。",
+    "publishedAt": "2026-06-26"
+  },
+  {
+    "slug": "gaza-ceasefire-violations-humanitarian-june2026",
+    "title": "ガザ停戦下でも人道危機が深刻 支援物資は合意量の36%、違反件数3300件超とUNOCHAが報告",
+    "sourceUrl": "https://www.ochaopt.org/content/humanitarian-situation-report-5-june-2026",
+    "topics": [
+      "ガザ",
+      "イスラエル",
+      "ハマス",
+      "停戦",
+      "人道支援",
+      "中東"
+    ],
+    "summary": "国連人道問題調整事務所（OCHA）の6月報告によれば、ガザ停戦下でも違反件数が3338件に上り、人道支援物資の搬入は停戦合意で定めた量の約36%にとどまっている。人口の77%が深刻な食料不安に直面しているとされ、停戦第2段階交渉も停滞している。",
+    "publishedAt": "2026-06-26"
   }
 ]
