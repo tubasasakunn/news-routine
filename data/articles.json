@@ -53,5 +53,50 @@
     ],
     "summary": "フランス・エビアンで6月15〜17日にG7サミットが開かれる。中東とウクライナが主要議題とされ、日本の高市首相も英国・イタリア訪問を経て出席する。",
     "publishedAt": "2026-06-14"
+  },
+  {
+    "slug": "us-iran-nuclear-deal-switzerland",
+    "title": "米国とイランがスイスで核交渉 60日ロードマップに合意も IAEA査察で両国の主張が対立",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks",
+    "topics": [
+      "イラン",
+      "米国",
+      "核交渉",
+      "iaea",
+      "スイス",
+      "中東"
+    ],
+    "summary": "米国とイランは2026年6月22日、スイスでの高レベル協議で60日以内の最終合意に向けたロードマップを確認したと仲介国が発表した。ただしIAEAの核施設アクセスについては両国の主張が食い違い、濃縮ウランの処理・制裁解除・凍結資産など主要課題は未解決のまま交渉継続中だ。",
+    "publishedAt": "2026-06-27"
+  },
+  {
+    "slug": "north-korea-destroyer-choe-hyon",
+    "title": "北朝鮮が最大級の駆逐艦「チェ・ヒョン」を就役 金正恩氏が海軍の核武装化を宣言",
+    "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/24/north-korea-commissions-largest-ever-warship",
+    "topics": [
+      "北朝鮮",
+      "核開発",
+      "海軍",
+      "軍拡",
+      "朝鮮半島",
+      "韓国"
+    ],
+    "summary": "北朝鮮は2026年6月23〜24日、南浦港で5,000トン級駆逐艦「チェ・ヒョン」を就役させた。金正恩総書記が式典に出席し海軍の核武装化を宣言したとKCNAが報じた。韓国軍はロシアの技術支援が関与した可能性があるとの見方を示している。",
+    "publishedAt": "2026-06-27"
+  },
+  {
+    "slug": "g7-evian-summit-outcomes",
+    "title": "G7エビアン・サミット閉幕 ウクライナ支援継続と重要鉱物の調達多様化で合意 9本の共同宣言採択",
+    "sourceUrl": "https://www.elysee.fr/en/G7evian/2026/06/17/the-outcomes-of-the-evian-g7-summit",
+    "topics": [
+      "g7",
+      "サミット",
+      "フランス",
+      "ウクライナ",
+      "重要鉱物",
+      "ai"
+    ],
+    "summary": "6月15〜17日にフランスのエビアンで開催されたG7サミットは9本の共同宣言を採択して閉幕した。ウクライナへの防空・長距離能力供与継続、レアアース・永久磁石の単一供給国依存を2030年までに60%未満に削減する目標などが盛り込まれた。",
+    "publishedAt": "2026-06-27"
   }
 ]
