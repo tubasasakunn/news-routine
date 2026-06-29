@@ -53,5 +53,50 @@
     ],
     "summary": "フランス・エビアンで6月15〜17日にG7サミットが開かれる。中東とウクライナが主要議題とされ、日本の高市首相も英国・イタリア訪問を経て出席する。",
     "publishedAt": "2026-06-14"
+  },
+  {
+    "slug": "ukraine-russia-peace-talks-stalled",
+    "title": "プーチン大統領がウクライナの長距離攻撃制限提案を拒否 和平交渉は膠着",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/6/29/russia-ukraine-war-why-has-putin-rejected-limits-on-long-range-strikes",
+    "topics": [
+      "ウクライナ",
+      "ロシア",
+      "停戦交渉",
+      "長距離ミサイル",
+      "和平交渉"
+    ],
+    "summary": "ロシアのプーチン大統領は6月29日の国営テレビインタビューで、ウクライナが提案した長距離攻撃の相互制限を拒否し、ドンバス全域掌握を戦争目標に掲げて軍事作戦継続の方針を表明した。停戦交渉は実質的に行き詰まっている。",
+    "publishedAt": "2026-06-29"
+  },
+  {
+    "slug": "iran-us-nuclear-iaea-dispute",
+    "title": "米・イラン核合意後にIAEA査察の時期で対立 イランは最終合意後と主張",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/6/26/iaea-demands-strong-verification-of-irans-nuclear-programme",
+    "topics": [
+      "イラン",
+      "核合意",
+      "iaea",
+      "米国",
+      "核査察",
+      "中東"
+    ],
+    "summary": "米国とイランが6月17日にイスラム・アバード覚書に署名して60日間の交渉入りで合意したが、IAEAによる核施設査察の時期をめぐり両国の公式見解が食い違っている。IAEAのグロッシ事務局長は「査察は必ず行われる」と述べる一方、イランは「最終合意後」との立場を崩していない。",
+    "publishedAt": "2026-06-29"
+  },
+  {
+    "slug": "north-korea-destroyer-choe-hyon",
+    "title": "北朝鮮が核搭載可能な駆逐艦を就役 金正恩委員長が海軍の核武装化を宣言",
+    "sourceUrl": "https://www.aljazeera.com/gallery/2026/6/24/north-korea-commissions-warship-as-kim-eyes-nuclear-navy",
+    "topics": [
+      "北朝鮮",
+      "核兵器",
+      "海軍",
+      "駆逐艦",
+      "金正恩",
+      "安全保障",
+      "朝鮮半島"
+    ],
+    "summary": "北朝鮮は6月23日、核搭載可能な巡航・弾道ミサイルを装備した5,000トン駆逐艦「チョエ・ヒョン」を就役させた。金正恩委員長は「核武装した海軍の建設が計画通り進んでいる」と宣言し、1万トン級戦略艦の建造計画も明らかにした。",
+    "publishedAt": "2026-06-29"
   }
 ]
