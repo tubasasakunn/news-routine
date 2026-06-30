@@ -53,5 +53,49 @@
     ],
     "summary": "フランス・エビアンで6月15〜17日にG7サミットが開かれる。中東とウクライナが主要議題とされ、日本の高市首相も英国・イタリア訪問を経て出席する。",
     "publishedAt": "2026-06-14"
+  },
+  {
+    "slug": "iran-us-doha-talks-june-2026",
+    "title": "米国がドーハで対イラン核協議の開催を発表 イランは「交渉なし」と否定",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/6/30/what-is-iran-looking-for-in-any-upcoming-talks-with-the-us",
+    "topics": [
+      "イラン",
+      "米国",
+      "核交渉",
+      "中東",
+      "停戦",
+      "ホルムズ海峡"
+    ],
+    "summary": "米国のトランプ大統領は6月30日、核計画をめぐる技術協議をカタール・ドーハで開催すると発表したが、イランの副外相は「近日中に米国とのいかなるレベルの交渉も行わない」と否定した。",
+    "publishedAt": "2026-06-30"
+  },
+  {
+    "slug": "scarborough-shoal-china-platform-june-2026",
+    "title": "スカボロー礁で中国が浮遊構造物を設置しフィリピンが抗議 撤去後も緊張続く",
+    "sourceUrl": "https://www.inquirer.net/477288/philippines-protests-china-over-floating-structure-in-scarborough-shoal/",
+    "topics": [
+      "南シナ海",
+      "中国",
+      "フィリピン",
+      "スカボロー礁",
+      "海洋権益"
+    ],
+    "summary": "中国が南シナ海のスカボロー礁内に浮遊プラットフォームを設置し、フィリピンが6月9日に正式な外交抗議を行った。中国側は6月17日ごろまでに撤去し「調査任務の完了」と説明したが、双方の主権主張の対立は続いている。",
+    "publishedAt": "2026-06-30"
+  },
+  {
+    "slug": "ukraine-e3-peace-mediation-june-2026",
+    "title": "英仏独がウクライナ・ロシアの直接対話を提案 ロシアは条件を「受け入れられない」と拒否",
+    "sourceUrl": "https://www.gov.uk/government/news/joint-e3-leaders-statement-with-president-volodymyr-zelenskyy-of-ukraine-7-june-2026",
+    "topics": [
+      "ウクライナ",
+      "ロシア",
+      "英国",
+      "フランス",
+      "ドイツ",
+      "和平交渉"
+    ],
+    "summary": "英国・フランス・ドイツの首脳は6月7日、ウクライナのゼレンスキー大統領とともに共同声明を発表し、米欧の関与のもとでのウクライナ・ロシア直接対話を支持した。ロシア側は数日以内に提示された条件を「完全に受け入れられない」と拒否し、交渉の膠着が続いている。",
+    "publishedAt": "2026-06-30"
   }
 ]
