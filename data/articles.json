@@ -53,5 +53,49 @@
     ],
     "summary": "フランス・エビアンで6月15〜17日にG7サミットが開かれる。中東とウクライナが主要議題とされ、日本の高市首相も英国・イタリア訪問を経て出席する。",
     "publishedAt": "2026-06-14"
+  },
+  {
+    "slug": "iran-us-doha-nuclear-talks",
+    "title": "米イラン、核交渉の技術協議をドーハで継続 イスラマバード覚書から2週間",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/7/1/us-iran-negotiations-whats-the-latest",
+    "topics": [
+      "イラン",
+      "米国",
+      "核交渉",
+      "停戦",
+      "ホルムズ海峡",
+      "中東"
+    ],
+    "summary": "米国とイランは2026年7月1日、カタール・ドーハで間接協議を継続した。6月17日に署名されたイスラマバード覚書に基づく60日の停戦延長期間中、核プログラムや制裁解除、ホルムズ海峡問題が主要議題となっている。",
+    "publishedAt": "2026-07-02"
+  },
+  {
+    "slug": "ukraine-kinburn-spit",
+    "title": "ウクライナ軍、キンブルン岬にロシア軍を後退させ旗を掲揚 黒海沿岸の局所的前進",
+    "sourceUrl": "https://kyivindependent.com/ukrainian-troops-raise-flag-on-kinburn-spit-in-mykolaiv-oblast-held-by-russian-forces-since-2022-military-says/",
+    "topics": [
+      "ウクライナ",
+      "ロシア",
+      "戦況",
+      "黒海",
+      "キンブルン岬"
+    ],
+    "summary": "ウクライナ軍南部防衛部隊は6月25日、2022年3月からロシア軍が占拠していたキンブルン岬に国旗を掲揚したと発表した。ロシア軍は激しい砲撃を受けて後退したとされるが、戦闘は依然継続中。",
+    "publishedAt": "2026-07-02"
+  },
+  {
+    "slug": "asean-south-china-sea-coc",
+    "title": "ASEAN第48回首脳会議、南シナ海行動規範の年内合意叶わず ASEAN海洋センター設立で一致",
+    "sourceUrl": "https://www.rfa.org/english/southchinasea/2026/04/24/asean-south-china-sea-code-of-conduct-philippines/",
+    "topics": [
+      "南シナ海",
+      "asean",
+      "フィリピン",
+      "中国",
+      "行動規範",
+      "東南アジア"
+    ],
+    "summary": "フィリピン・セブで2026年5月に開催された第48回ASEAN首脳会議は、南シナ海行動規範（COC）の年内合意を実現できなかった。ASEAN首脳はUNCLOSに基づくCOC締結を目指すとするにとどまり、代わりにASEAN海洋センターの設立で合意した。",
+    "publishedAt": "2026-07-02"
   }
 ]
