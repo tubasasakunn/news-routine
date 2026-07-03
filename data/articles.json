@@ -53,5 +53,52 @@
     ],
     "summary": "フランス・エビアンで6月15〜17日にG7サミットが開かれる。中東とウクライナが主要議題とされ、日本の高市首相も英国・イタリア訪問を経て出席する。",
     "publishedAt": "2026-06-14"
+  },
+  {
+    "slug": "ebola-drc-uganda-pheic-2026",
+    "title": "コンゴ民主共和国でエボラ出血熱が拡大 WHOが国際的公衆衛生上の緊急事態を宣言",
+    "sourceUrl": "https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern",
+    "topics": [
+      "エボラ出血熱",
+      "コンゴ民主共和国",
+      "ウガンダ",
+      "who",
+      "感染症",
+      "公衆衛生"
+    ],
+    "summary": "コンゴ民主共和国東部でブンディブギョ型エボラウイルスによる感染拡大が続いており、WHOは5月17日にPHEICを宣言した。7月初旬時点で確認感染者は1,400人超、死者は450人超と報告されている。",
+    "publishedAt": "2026-07-03"
+  },
+  {
+    "slug": "taiwan-china-maritime-quarantine-drill-2026",
+    "title": "台湾が中国の海上「封鎖」シナリオを想定した机上演習を実施 船舶への立ち入り検査拒否を当局が指示",
+    "sourceUrl": "https://focustaiwan.tw/politics/202606260009",
+    "topics": [
+      "台湾",
+      "中国",
+      "海上封鎖",
+      "インド太平洋",
+      "安全保障",
+      "日本",
+      "米中関係"
+    ],
+    "summary": "台湾政府は6月25日、中国海警局が正式な封鎖宣言なしに商業船舶へ立ち入り検査を要求するグレーゾーンシナリオを想定した机上演習を実施した。7月1日には台湾海巡署が、中国側の立ち入り検査要求には応じないよう船舶に公式に指示した。",
+    "publishedAt": "2026-07-03"
+  },
+  {
+    "slug": "nato-ankara-summit-2026-ukraine-defense",
+    "title": "NATOアンカラ首脳会議が7月7-8日に開催へ ウクライナ向け700億ユーロ支援確認と第5条再確認が焦点",
+    "sourceUrl": "https://www.nato.int/en/news-and-events/events/2026/07/overview---2026-nato-summit-in-ankara-",
+    "topics": [
+      "nato",
+      "アンカラ首脳会議",
+      "ウクライナ",
+      "防衛費",
+      "ロシア",
+      "集団安全保障",
+      "日本"
+    ],
+    "summary": "第36回NATO首脳会議が7月7-8日にトルコ・アンカラで開催される。ウクライナへの軍事支援700億ユーロの承認、集団防衛第5条の再確認、ロシアを長期的な脅威と位置付ける宣言の採択が議題となる。",
+    "publishedAt": "2026-07-03"
   }
 ]
