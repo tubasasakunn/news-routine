@@ -53,5 +53,50 @@
     ],
     "summary": "フランス・エビアンで6月15〜17日にG7サミットが開かれる。中東とウクライナが主要議題とされ、日本の高市首相も英国・イタリア訪問を経て出席する。",
     "publishedAt": "2026-06-14"
+  },
+  {
+    "slug": "russia-kyiv-missile-attack-nato-summit-eve",
+    "title": "ロシア、NATOアンカラ首脳会議前夜にキーウを大規模ミサイル攻撃——市民22人死亡",
+    "sourceUrl": "https://kyivindependent.com/russian-attack-july-6/",
+    "topics": [
+      "ウクライナ",
+      "ロシア",
+      "戦争",
+      "ミサイル攻撃",
+      "キーウ",
+      "nato"
+    ],
+    "summary": "ロシア軍は7月6日未明、弾道ミサイル23発・巡航ミサイル39発・極超音速ミサイル6発・ドローン351機でキーウを攻撃し少なくとも22人が死亡。NATOアンカラ首脳会議の前夜に実施された大規模攻撃で、ゼレンスキー大統領は迎撃手段の不足を訴えた。",
+    "publishedAt": "2026-07-06"
+  },
+  {
+    "slug": "iran-khamenei-funeral-successor-july",
+    "title": "イラン最高指導者ハメネイ師の国葬が続く——後継者のモジュタバー氏は公の場に姿現さず",
+    "sourceUrl": "https://www.npr.org/2026/07/04/nx-s1-5882083/iran-funeral-ayatollah-ali-khamenei",
+    "topics": [
+      "イラン",
+      "ハメネイ",
+      "最高指導者",
+      "政権移行",
+      "中東",
+      "国葬"
+    ],
+    "summary": "2026年2月の空爆で死亡したイランのアリー・ハメネイ最高指導者の国葬が7月4〜9日にテヘランほかで行われており、推定1200〜1500万人が参列。後継者のモジュタバー・ハメネイ氏は同じ空爆で負傷したとみられ公の場に現れていない。",
+    "publishedAt": "2026-07-06"
+  },
+  {
+    "slug": "hamas-dissolves-gaza-governing-body",
+    "title": "ハマス、20年近く続いたガザ統治機関を解散——国連支援の行政委員会に権限移譲へ",
+    "sourceUrl": "https://www.nbcnews.com/world/gaza/hamas-dissolves-gaza-governing-body-ahead-power-transfer-rcna353116",
+    "topics": [
+      "ガザ",
+      "ハマス",
+      "停戦",
+      "パレスチナ",
+      "国連",
+      "中東和平"
+    ],
+    "summary": "ハマスは7月6日、2023年10月以来ガザを統治してきた緊急委員会の解散を発表し、国連支援のガザ行政国家委員会（NCAG）への権限移譲準備を表明。トランプ政権主導の停戦合意の一環だが、専門家やイスラエル側は象徴的措置にとどまると評している。",
+    "publishedAt": "2026-07-06"
   }
 ]
