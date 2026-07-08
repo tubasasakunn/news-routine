@@ -53,5 +53,53 @@
     ],
     "summary": "フランス・エビアンで6月15〜17日にG7サミットが開かれる。中東とウクライナが主要議題とされ、日本の高市首相も英国・イタリア訪問を経て出席する。",
     "publishedAt": "2026-06-14"
+  },
+  {
+    "slug": "us-iran-ceasefire-ended-hormuz",
+    "title": "米・イラン停戦が実質崩壊：ホルムズ海峡でタンカー攻撃と米軍反撃が応酬、トランプ「停戦は終わった」",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/7/8/trump-says-ceasefire-over-after-us-iran-trade-attacks",
+    "topics": [
+      "米国",
+      "イラン",
+      "ホルムズ海峡",
+      "中東",
+      "停戦",
+      "制裁",
+      "軍事衝突"
+    ],
+    "summary": "6月17日に署名された米・イラン60日間停戦覚書が7月7〜8日に実質崩壊した。ホルムズ海峡でタンカー3隻が攻撃を受けた後、米軍はイランの施設80カ所超を空爆。トランプ大統領は「停戦は終わった」と宣言し、イランへの石油輸出制裁免除も取り消した。",
+    "publishedAt": "2026-07-08"
+  },
+  {
+    "slug": "nato-ankara-summit-2026",
+    "title": "NATOアンカラ首脳会議が閉幕：GDP比5%防衛費を確約、欧州・カナダがウクライナへ2年間1400億ユーロ支援",
+    "sourceUrl": "https://www.nato.int/en/news-and-events/events/2026/07/overview---2026-nato-summit-in-ankara-",
+    "topics": [
+      "nato",
+      "アンカラ",
+      "首脳会議",
+      "防衛費",
+      "ウクライナ支援",
+      "トルコ",
+      "集団防衛"
+    ],
+    "summary": "トルコのアンカラで開催されたNATO第36回首脳会議が7月8日に閉幕。32加盟国はGDP比5%の防衛支出を確約し、欧州加盟国とカナダはウクライナへの2026〜2027年軍事支援として計1400億ユーロを約束。首脳宣言はロシアを欧州大西洋安全保障への脅威と明記した。",
+    "publishedAt": "2026-07-08"
+  },
+  {
+    "slug": "hamas-dissolves-gaza-government",
+    "title": "ハマスがガザの市民行政機構を解散：国連支援の暫定委員会に権限移譲、停戦第2段階の行方は不透明",
+    "sourceUrl": "https://www.pbs.org/newshour/world/hamas-says-it-has-dissolved-its-government-in-gaza-to-transfer-power-to-a-un-backed-committee",
+    "topics": [
+      "ガザ",
+      "ハマス",
+      "パレスチナ",
+      "国連",
+      "イスラエル",
+      "中東",
+      "停戦"
+    ],
+    "summary": "ハマスは7月6日、ガザの市民行政機構を解散し国連安保理決議2803に基づくガザ行政国家委員会（NCAG）に権限移譲すると宣言。武装部門の解体には言及なく、イスラエルは否定的。停戦合意から9カ月を経ても政治解決の第2段階交渉は難航している。",
+    "publishedAt": "2026-07-08"
   }
 ]
