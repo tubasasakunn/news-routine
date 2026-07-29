@@ -15,6 +15,7 @@ import {
 } from "./seo";
 import styleCss from "./style.css?raw";
 import faviconSvg from "./favicon.svg?raw";
+import { execCtx, reportError } from './error-log';
 
 const app = new Hono();
 
@@ -178,6 +179,13 @@ app.get("/topics", (c) => {
       </div>
     </Layout>,
   );
+});
+
+// 未処理のエラーは log-checker に送る（送信は waitUntil に逃がす）。
+app.onError((err, c) => {
+  console.error('[unhandled]', err);
+  reportError(execCtx(c), 'UnhandledError', err);
+  return c.json({ error: 'internal_error' }, 500);
 });
 
 export default app;
